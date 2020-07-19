@@ -7,5 +7,5 @@ Manual annotation has been in the works for quite a time as of now but with mode
 
 **Instructions to execute this project**
 1. Pull this repository
-2. Copy the image database onto the home directory and insert the downloaded folder path into the “directory” variable in the program.
+2. Open "directory2.m" Copy the image database onto the home directory and insert the downloaded folder path into the “directory” variable in the program.
 3. Run using Matlab.
